@@ -1,0 +1,36 @@
+{
+  "repository": "#",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "vite serve --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.0",
+    "css-loader": "^6.7.3",
+    "file-loader": "^6.2.0",
+    "glsl-blend": "^1.0.3",
+    "glslify-loader": "^2.0.0",
+    "gsap": "^3.11.3",
+    "html-loader": "^4.2.0",
+    "lil-gui": "^0.16.1",
+    "mini-css-extract-plugin": "^2.7.2",
+    "normalize-wheel": "^1.0.1",
+    "portfinder-sync": "^0.0.2",
+    "raw-loader": "^4.0.2",
+    "stats.js": "^0.17.0",
+    "style-loader": "^3.3.1",
+    "stylus": "^0.58.1",
+    "three": "^0.141.0",
+    "tweakpane": "^3.1.1",
+    "vite": "^2.9.12",
+    "vite-plugin-babel": "^1.1.2",
+    "vite-plugin-css": "^1.0.4",
+    "vite-plugin-glsl": "^0.1.2",
+    "vite-plugin-glslify": "^2.0.1",
+    "vite-plugin-html": "^3.2.0"
+  }
+}
