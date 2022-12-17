@@ -1,9 +1,12 @@
-# My Room in 3D
+# FP_GrafkomE_Kel7
 
-## Links
 
-- [GitHub](https://github.com/brunosimon/my-room-in-3d)
-- [Live](https://my-room-in-3d.vercel.app)
+## Anggota Kelompok Grafika Komputer E Kelompok 7:
+Nama Lengkap                 | NRP
+---------------------------- | -------------
+Farros Hilmi Syafei          | 5025201012
+                             
+
 
 ## Setup
 
