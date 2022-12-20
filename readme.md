@@ -5,7 +5,6 @@
 Nama Lengkap                 | NRP
 ---------------------------- | -------------
 Farros Hilmi Syafei          | 5025201012
----------------------------- | -------------
 Muhammad Damas Abhirama      | 5025201271
                              
 
