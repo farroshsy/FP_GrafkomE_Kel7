@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.experience
+{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+}
+
+.credits
+{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: #ffffff;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+}
+
+.credits-2
+{
+    position: absolute;
+    top: 20px;
+    left: 90px;
+    color: #a9fe39;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.abtClose {
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    cursor: pointer;
+}
+.abt-container{
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    display: none;
+}
