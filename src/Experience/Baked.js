@@ -132,6 +132,8 @@ export default class CoffeeSteam
                     this.model.material.uniforms.uLightDeskColor.value.set(this.colors.desk)
                 })
 
+                
+
             this.debugFolder
                 .addInput(
                     this.model.material.uniforms.uLightDeskStrength,

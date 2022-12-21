@@ -28,7 +28,30 @@ body
     font-family: 'Roboto', sans-serif;
 }
 
-.credits a
+.credits-2
 {
-    color: inherit;
+    position: absolute;
+    top: 20px;
+    left: 90px;
+    color: #a9fe39;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.abtClose {
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    cursor: pointer;
+}
+.abt-container{
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    display: none;
 }
